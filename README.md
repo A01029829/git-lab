@@ -13,5 +13,9 @@ Git practice laboratory. Now there´s a header that reads "description".
 
 [Git documentation](https://git-scm.com/doc)
 
+<H3> References </H3>
+
+[Lakaka](https://github.com/A01029829/git-lab/blob/main/lakaka.jpg)
+
 
 Luis Velediaz
