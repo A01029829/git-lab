@@ -9,7 +9,11 @@ Git practice laboratory. Now there´s a header that reads "description".
 ![Lakaka](https://github.com/A01029829/git-lab/blob/main/lakaka.jpg?raw=true)
 
 <H3> Code Examples </H3>
-```python num1=1 num2=2 sum=num1+num2 print("The sum is: ",sum)```
+```python
+num1 = 1
+num2 = 2
+sum = num1 + num2
+print("The sum is:", sum)
 
 <H2> References </H2>
 
