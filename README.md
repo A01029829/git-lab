@@ -15,7 +15,7 @@ Git practice laboratory. Now there´s a header that reads "description".
 
 <H3> References </H3>
 
-[Lakaka](https://github.com/A01029829/git-lab/blob/main/lakaka.jpg)
+![Lakaka](https://github.com/A01029829/git-lab/blob/main/lakaka.jpg?raw=true)
 
 
 Luis Velediaz
