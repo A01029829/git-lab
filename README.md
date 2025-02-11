@@ -17,6 +17,13 @@ sum = num1 + num2
 print("The sum is:", sum)
 ```
 
+<H3> Lists </H3>
+
+- [x] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
+
 <H2> References </H2>
 
 - [Github documentation](https://docs.github.com/en)
