@@ -8,6 +8,8 @@ Git practice laboratory. Now there´s a header that reads "description".
 
 ![Lakaka](https://github.com/A01029829/git-lab/blob/main/lakaka.jpg?raw=true)
 
+![Lakaka Larry](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9Pne-YbwAgyM3YuKJRCCF64V7XSilQGMZw&s)
+
 <H3> Code Examples </H3>
 
 ```python
