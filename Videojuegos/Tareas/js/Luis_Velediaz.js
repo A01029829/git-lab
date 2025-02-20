@@ -98,7 +98,7 @@ console.log("");
 * Escribe una función llamada capitalize que reciba una cadena de texto 
 * y regrese una nueva con la primer letra de cada palabra en mayúscula.
 */
-function capitalize(string){
+export function capitalize(string){
     let cap=string[0].toUpperCase();
     let rest="";
     for (let i=1; i<string.length; i++){
